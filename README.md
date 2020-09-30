@@ -1,2 +1,2 @@
 # algorithm
-prictice algorithm
+prictice algorithm for beginer 
